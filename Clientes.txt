@@ -1,0 +1,12 @@
+Cedula:1751978766
+Nombre:Josue
+Apellido:Chiriboga
+
+Cedula:1723734677
+Nombre:Nicole
+Apellido:Yepez
+
+Cedula:1722500160
+Nombre:Gustavo
+Apellido:Zarate
+

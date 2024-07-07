@@ -1,0 +1,21 @@
+Fecha: 07-07-2024
+Cedula:1751978766
+Nombre:Josue
+Apellido:Chiriboga
+Valor:124.80
+Cantidad:78
+
+Fecha: 07-07-2024
+Cedula:1723734677
+Nombre:Nicole
+Apellido:Yepez
+Valor:128.80
+Cantidad:56
+
+Fecha: 07-07-2024
+Cedula:1722500160
+Nombre:Gustavo
+Apellido:Zarate
+Valor:267.00
+Cantidad:89
+

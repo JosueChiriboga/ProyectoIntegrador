@@ -1,0 +1,12 @@
+Nombre:ChocoMaracuya
+Cantidad:400
+Precio:2.30
+
+Nombre:ChocoMango
+Cantidad:600
+Precio:3.00
+
+Nombre:ChocoAvellana
+Cantidad:800
+Precio:1.60
+
